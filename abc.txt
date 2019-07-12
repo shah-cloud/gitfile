@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Hello git this is alice again
-=======
 Hello git this is bob again
->>>>>>> ab7d86fc988f7302525107789525dafad7684d4c
