@@ -1,2 +1,7 @@
 Hello git
+<<<<<<< HEAD
 hii John
+=======
+hii
+Bob
+>>>>>>> f517fb1950ce13d7eab4d63d0d65229bde2b5867
